@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88049747861",
+    "project_id": "safeship-bbf99",
+    "storage_bucket": "safeship-bbf99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88049747861:android:bbc68767aa16459953d89c",
+        "android_client_info": {
+          "package_name": "com.SystemicAltruism.SafeShip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdVQt7Sasrvck_pU-QdmeEnyjQKIvpWek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
